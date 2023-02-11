@@ -1,0 +1,381 @@
+{
+    "1": {
+        "word": "Columbus",
+        "word_data": [
+            "columb.us            N      2 1 NOM S M",
+            "columbus, columbi  N (2nd) M   [XAXCO]",
+            "male/cock pigeon; (of male persons) (L+S); dove;"
+        ]
+    },
+    "2": {
+        "word": "fuit",
+        "word_data": [
+            "fu.it                V      5 1 PERF ACTIVE  IND 3 S",
+            "sum, esse, fui, futurus  V   [XXXAX]",
+            "be; exist; (also used to form verb perfect passive tenses) with NOM PERF PPL"
+        ]
+    },
+    "3": {
+        "word": "nauta",
+        "word_data": [
+            "naut.a               N      1 1 NOM S M",
+            "naut.a               N      1 1 VOC S M",
+            "naut.a               N      1 1 ABL S M",
+            "nauta, nautae  N (1st) M   [XXXBO]",
+            "sailor, seaman, mariner;"
+        ]
+    },
+    "4": {
+        "word": ".",
+        "word_data": "punct"
+    },
+    "5": {
+        "word": "Sed",
+        "word_data": [
+            "sed                  CONJ",
+            "sed  CONJ   [XXXAX]",
+            "but, but also; yet; however, but in fact/truth; not to mention; yes but;"
+        ]
+    },
+    "6": {
+        "word": "Columbus",
+        "word_data": [
+            "columb.us            N      2 1 NOM S M",
+            "columbus, columbi  N (2nd) M   [XAXCO]",
+            "male/cock pigeon; (of male persons) (L+S); dove;"
+        ]
+    },
+    "7": {
+        "word": "non",
+        "word_data": [
+            "non                  N      9 8 X   X M",
+            "Non., abb.  N M   [XXXDX]    lesser",
+            "Nones (pl.), abb. Non.; 7th of month, March, May, July, Oct., 5th elsewhen;",
+            "non                  ADV    POS",
+            "non  ADV   [XXXAX]",
+            "not, by no means, no; [non modo ... sed etiam => not only ... but also];"
+        ]
+    },
+    "8": {
+        "word": "habuit",
+        "word_data": [
+            "habu.it              V      2 1 PERF ACTIVE  IND 3 S",
+            "habeo, habere, habui, habitus  V (2nd)   [XXXAX]",
+            "have, hold, consider, think, reason; manage, keep; spend/pass (time);"
+        ]
+    },
+    "9": {
+        "word": "navem",
+        "word_data": [
+            "nav.em               V      1 1 PRES ACTIVE  SUB 1 S",
+            "navo, navare, navavi, navatus  V (1st)   [XXXDX]    lesser",
+            "do with zeal; [operam navare => do one's best];",
+            "nav.em               N      3 3 ACC S F",
+            "navis, navis  N (3rd) F   [XXXAX]",
+            "ship; [navis longa => galley, battleship; ~ oneraria => transport/cargo ship];"
+        ]
+    },
+    "10": {
+        "word": ".",
+        "word_data": "punct"
+    },
+    "11": {
+        "word": "Columbus",
+        "word_data": [
+            "columb.us            N      2 1 NOM S M",
+            "columbus, columbi  N (2nd) M   [XAXCO]",
+            "male/cock pigeon; (of male persons) (L+S); dove;"
+        ]
+    },
+    "12": {
+        "word": "venit",
+        "word_data": [
+            "veni.t               V      6 1 PRES ACTIVE  IND 3 S",
+            "veneo, venire, venivi(ii), venitus  V   [XXXBO]",
+            "go for sale, be sold (as slave), be disposed of for (dishonorable/venal) gain;",
+            "ven.it               V      4 1 PRES ACTIVE  IND 3 S",
+            "ven.it               V      4 1 PERF ACTIVE  IND 3 S",
+            "venio, venire, veni, ventus  V (4th)   [XXXAX]",
+            "come;"
+        ]
+    },
+    "13": {
+        "word": "ad",
+        "word_data": [
+            "ad                   ADV    POS",
+            "ad  ADV   [XXXCO]",
+            "about (with numerals);",
+            "ad                   PREP   ACC",
+            "ad  PREP  ACC   [XXXAO]",
+            "to, up to, towards; near, at; until, on, by; almost; according to; about w/NUM;"
+        ]
+    },
+    "14": {
+        "word": "Reginam",
+        "word_data": [
+            "regin.am             N      1 1 ACC S F",
+            "regina, reginae  N (1st) F   [XXXAX]",
+            "queen;"
+        ]
+    },
+    "15": {
+        "word": "Isabellam",
+        "word_data": [
+            "Isabellam                        ========   UNKNOWN"
+        ]
+    },
+    "16": {
+        "word": ".",
+        "word_data": "punct"
+    },
+    "17": {
+        "word": "Columbus",
+        "word_data": [
+            "columb.us            N      2 1 NOM S M",
+            "columbus, columbi  N (2nd) M   [XAXCO]",
+            "male/cock pigeon; (of male persons) (L+S); dove;"
+        ]
+    },
+    "18": {
+        "word": "dixit",
+        "word_data": [
+            "dix.it               V      3 1 PERF ACTIVE  IND 3 S",
+            "dico, dicere, dixi, dictus  V (3rd)   [XXXAO]",
+            "say, declare, state; allege, declare positively; assert; plead (case);",
+            "talk/speak; make speech; play (instrument); pronounce, articulate; utter; mean;",
+            "name/call; appoint, fix/set (date); designate, declare intention of giving;"
+        ]
+    },
+    "19": {
+        "word": ":",
+        "word_data": "punct"
+    },
+    "20": {
+        "word": "Mundus",
+        "word_data": [
+            "mund.us              N      2 1 NOM S M",
+            "mundus, mundi  N (2nd) M   [XXXAX]",
+            "universe, heavens; world, mankind; toilet/dress (woman), ornament, decoration;",
+            "mund.us              ADJ    1 1 NOM S M POS",
+            "mundus, munda -um, mundior -or -us, mundissimus -a -um  ADJ   [XXXAX]",
+            "clean, cleanly, nice, neat, elegant, delicate; refined, pure;"
+        ]
+    },
+    "21": {
+        "word": "est",
+        "word_data": [
+            "es.t                 V      7 3 PRES ACTIVE  IND 3 S      Early",
+            "edo, esse, -, -  V TRANS   [XXXCO]",
+            "eat/consume/devour; eat away (fire/water/disease); destroy; spend money on food",
+            ".est                 V      5 1 PRES ACTIVE  IND 3 S",
+            "sum, esse, fui, futurus  V   [XXXAX]",
+            "be; exist; (also used to form verb perfect passive tenses) with NOM PERF PPL"
+        ]
+    },
+    "22": {
+        "word": "rotundus",
+        "word_data": [
+            "rotund.us            ADJ    1 1 NOM S M POS",
+            "rotundus, rotunda -um, rotundior -or -us, rotundissimus -a -um  ADJ   [XXXAO]",
+            "round, circular; wheel-like; spherical, globular; smooth, finished; facile;"
+        ]
+    },
+    "23": {
+        "word": ".",
+        "word_data": "punct"
+    },
+    "24": {
+        "word": "Mundus",
+        "word_data": [
+            "mund.us              N      2 1 NOM S M",
+            "mundus, mundi  N (2nd) M   [XXXAX]",
+            "universe, heavens; world, mankind; toilet/dress (woman), ornament, decoration;",
+            "mund.us              ADJ    1 1 NOM S M POS",
+            "mundus, munda -um, mundior -or -us, mundissimus -a -um  ADJ   [XXXAX]",
+            "clean, cleanly, nice, neat, elegant, delicate; refined, pure;"
+        ]
+    },
+    "25": {
+        "word": "non",
+        "word_data": [
+            "non                  N      9 8 X   X M",
+            "Non., abb.  N M   [XXXDX]    lesser",
+            "Nones (pl.), abb. Non.; 7th of month, March, May, July, Oct., 5th elsewhen;",
+            "non                  ADV    POS",
+            "non  ADV   [XXXAX]",
+            "not, by no means, no; [non modo ... sed etiam => not only ... but also];"
+        ]
+    },
+    "26": {
+        "word": "est",
+        "word_data": [
+            "es.t                 V      7 3 PRES ACTIVE  IND 3 S      Early",
+            "edo, esse, -, -  V TRANS   [XXXCO]",
+            "eat/consume/devour; eat away (fire/water/disease); destroy; spend money on food",
+            ".est                 V      5 1 PRES ACTIVE  IND 3 S",
+            "sum, esse, fui, futurus  V   [XXXAX]",
+            "be; exist; (also used to form verb perfect passive tenses) with NOM PERF PPL"
+        ]
+    },
+    "27": {
+        "word": "planus",
+        "word_data": [
+            "plan.us              ADJ    1 1 NOM S M POS",
+            "planus, plana -um, planior -or -us, planissimus -a -um  ADJ   [XXXBX]",
+            "level, flat;"
+        ]
+    },
+    "28": {
+        "word": ".",
+        "word_data": "punct"
+    },
+    "29": {
+        "word": "Regina",
+        "word_data": [
+            "regin.a              N      1 1 NOM S F",
+            "regin.a              N      1 1 VOC S F",
+            "regin.a              N      1 1 ABL S F",
+            "regina, reginae  N (1st) F   [XXXAX]",
+            "queen;"
+        ]
+    },
+    "30": {
+        "word": "dedit",
+        "word_data": [
+            "ded.it               V      1 1 PERF ACTIVE  IND 3 S",
+            "do, dare, dedi, datus  V (1st) TRANS   [XXXAO]",
+            "give; dedicate; sell; pay; grant/bestow/impart/offer/lend; devote; allow; make;",
+            "surrender/give over; send to die; ascribe/attribute; give birth/produce; utter;",
+            "ded.it               V      3 1 PRES ACTIVE  IND 3 S",
+            "dedo, dedere, dedidi, deditus  V (3rd) TRANS   [XXXBO]",
+            "give up/in, surrender; abandon/consign/devote (to); yield, hand/deliver over;"
+        ]
+    },
+    "31": {
+        "word": "pecuniam",
+        "word_data": [
+            "pecuni.am            N      1 1 ACC S F",
+            "pecunia, pecuniae  N (1st) F   [XLXAX]",
+            "money; property;"
+        ]
+    },
+    "32": {
+        "word": ".",
+        "word_data": "punct"
+    },
+    "33": {
+        "word": "Columbus",
+        "word_data": [
+            "columb.us            N      2 1 NOM S M",
+            "columbus, columbi  N (2nd) M   [XAXCO]",
+            "male/cock pigeon; (of male persons) (L+S); dove;"
+        ]
+    },
+    "34": {
+        "word": "non",
+        "word_data": [
+            "non                  N      9 8 X   X M",
+            "Non., abb.  N M   [XXXDX]    lesser",
+            "Nones (pl.), abb. Non.; 7th of month, March, May, July, Oct., 5th elsewhen;",
+            "non                  ADV    POS",
+            "non  ADV   [XXXAX]",
+            "not, by no means, no; [non modo ... sed etiam => not only ... but also];"
+        ]
+    },
+    "35": {
+        "word": "invenit",
+        "word_data": [
+            "inven.it             V      4 1 PRES ACTIVE  IND 3 S",
+            "inven.it             V      4 1 PERF ACTIVE  IND 3 S",
+            "invenio, invenire, inveni, inventus  V (4th)   [XXXAX]",
+            "come upon; discover, find; invent, contrive; reach, manage to get;"
+        ]
+    },
+    "36": {
+        "word": "Indiam",
+        "word_data": [
+            "indi.am              N      1 1 ACC S F",
+            "India, Indiae  N (1st) F   [XXICO]",
+            "India; (ill-defined region of Asia);"
+        ]
+    },
+    "37": {
+        "word": ".",
+        "word_data": "punct"
+    },
+    "38": {
+        "word": "Columbus",
+        "word_data": [
+            "columb.us            N      2 1 NOM S M",
+            "columbus, columbi  N (2nd) M   [XAXCO]",
+            "male/cock pigeon; (of male persons) (L+S); dove;"
+        ]
+    },
+    "39": {
+        "word": "invenit",
+        "word_data": [
+            "inven.it             V      4 1 PRES ACTIVE  IND 3 S",
+            "inven.it             V      4 1 PERF ACTIVE  IND 3 S",
+            "invenio, invenire, inveni, inventus  V (4th)   [XXXAX]",
+            "come upon; discover, find; invent, contrive; reach, manage to get;"
+        ]
+    },
+    "40": {
+        "word": "Americam",
+        "word_data": [
+            "americ.am            N      1 1 ACC S F",
+            "America, Americae  N (1st) F   [HXXFE]    Modern  veryrare",
+            "America;"
+        ]
+    },
+    "41": {
+        "word": ".",
+        "word_data": "punct"
+    },
+    "42": {
+        "word": "America",
+        "word_data": [
+            "americ.a             N      1 1 NOM S F",
+            "americ.a             N      1 1 VOC S F",
+            "americ.a             N      1 1 ABL S F",
+            "America, Americae  N (1st) F   [HXXFE]    Modern  veryrare",
+            "America;"
+        ]
+    },
+    "43": {
+        "word": "non",
+        "word_data": [
+            "non                  N      9 8 X   X M",
+            "Non., abb.  N M   [XXXDX]    lesser",
+            "Nones (pl.), abb. Non.; 7th of month, March, May, July, Oct., 5th elsewhen;",
+            "non                  ADV    POS",
+            "non  ADV   [XXXAX]",
+            "not, by no means, no; [non modo ... sed etiam => not only ... but also];"
+        ]
+    },
+    "44": {
+        "word": "fuit",
+        "word_data": [
+            "fu.it                V      5 1 PERF ACTIVE  IND 3 S",
+            "sum, esse, fui, futurus  V   [XXXAX]",
+            "be; exist; (also used to form verb perfect passive tenses) with NOM PERF PPL"
+        ]
+    },
+    "45": {
+        "word": "parva",
+        "word_data": [
+            "parv.a               ADJ    1 1 NOM S F POS",
+            "parv.a               ADJ    1 1 VOC S F POS",
+            "parv.a               ADJ    1 1 ABL S F POS",
+            "parv.a               ADJ    1 1 NOM P N POS",
+            "parv.a               ADJ    1 1 VOC P N POS",
+            "parv.a               ADJ    1 1 ACC P N POS",
+            "parvus, parva -um, minor -or -us, minimus -a -um  ADJ   [XXXAX]",
+            "small, little, cheap; unimportant; (SUPER) smallest, least;"
+        ]
+    },
+    "46": {
+        "word": ".",
+        "word_data": "punct"
+    }
+}
